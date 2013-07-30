@@ -1,0 +1,9 @@
+== Weathersg
+
+Weathersg is a simple web app to get the Pollutant Standards Index (PSI) value in Singapore.
+
+It is created during the period when PSI value hit historical record. 
+
+Weathersg uses nokogiri to obtain PSI value from http://www.gov.nea.sg.
+
+It is a demostration that HTML parsing and web extraction, can be useful in our daily life. 

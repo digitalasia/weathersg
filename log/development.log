@@ -1,0 +1,55 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-07-30 20:54:30 +0800
+Processing by WeatherController#index as HTML
+hello
+Compiled weather.css  (36ms)  (pid 18313)
+  Rendered weather/index.html.erb within layouts/application (55.0ms)
+Compiled bootstrap.css  (0ms)  (pid 18313)
+Compiled bootstrap.min.css  (0ms)  (pid 18313)
+Compiled application.css  (19ms)  (pid 18313)
+Compiled jquery.js  (2ms)  (pid 18313)
+Compiled jquery_ujs.js  (0ms)  (pid 18313)
+Compiled bootstrap.js  (1ms)  (pid 18313)
+Compiled bootstrap.min.js  (0ms)  (pid 18313)
+Compiled d3.v3.js  (5ms)  (pid 18313)
+Compiled weather.js  (231ms)  (pid 18313)
+Compiled application.js  (336ms)  (pid 18313)
+Completed 200 OK in 1236ms (Views: 519.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2013-07-30 20:54:31 +0800
+Served asset /bootstrap.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2013-07-30 20:54:31 +0800
+Served asset /bootstrap.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/weather.css?body=1" for 127.0.0.1 at 2013-07-30 20:54:31 +0800
+Served asset /weather.css - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /bootstrap.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/d3.v3.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /d3.v3.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/weather.js?body=1" for 127.0.0.1 at 2013-07-30 20:54:32 +0800
+Served asset /weather.js - 304 Not Modified (2ms)
